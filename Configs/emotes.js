@@ -1,0 +1,20 @@
+module.exports = {
+    flyinghearts: "U+1F49E",
+    load: "U+231B",
+    verified: "U+2705",
+    error: "U+274C",
+    info: "U+2139",
+    music1: "U+1F3B6",
+    queue: "U+1F3B5",
+    success: "U+2714",
+    music: "U+1F399",
+    fun: "U+1F602",
+    chatbot: "U+1F4AC",
+    image: "U+1F5BC",
+    anime: "U+1F435",
+    nsfw: "U+1F51E",
+    other: "U+1F4D7",
+    diskspin: "U+1F4BF",
+    owner: "U+1F528",
+    buttons: "U+1F534"
+}
